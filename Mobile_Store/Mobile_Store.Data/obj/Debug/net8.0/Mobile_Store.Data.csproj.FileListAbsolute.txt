@@ -1,0 +1,15 @@
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\bin\Debug\net8.0\Mobile_Store.Data.deps.json
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\bin\Debug\net8.0\Mobile_Store.Data.dll
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\bin\Debug\net8.0\Mobile_Store.Data.pdb
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.csproj.AssemblyReference.cache
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.AssemblyInfoInputs.cache
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.AssemblyInfo.cs
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.csproj.CoreCompileInputs.cache
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.sourcelink.json
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.dll
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\refint\Mobile_Store.Data.dll
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.pdb
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\ref\Mobile_Store.Data.dll
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\bin\Debug\net8.0\Mobile_Store.Data.runtimeconfig.json
+C:\Users\Panonit\Desktop\Mobile_Store\Mobile_Store\Mobile_Store.Data\obj\Debug\net8.0\Mobile_Store.Data.genruntimeconfig.cache

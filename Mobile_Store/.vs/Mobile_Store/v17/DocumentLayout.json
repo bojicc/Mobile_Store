@@ -1,12 +1,150 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|solutionrelative:mobile_store.data\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|solutionrelative:mobile_store.data\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store.data\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|solutionrelative:mobile_store.data\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|solutionrelative:mobile_store\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|solutionrelative:mobile_store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A45D8455-5636-4F04-AA93-9E18AC6469BE}|Mobile_Store\\Mobile_Store.csproj|solutionrelative:mobile_store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|c:\\users\\panonit\\desktop\\mobile_store\\mobile_store\\mobile_store.data\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A18D617E-9DF0-477D-9369-C2BB1F255CF1}|Mobile_Store.Data\\Mobile_Store.Data.csproj|solutionrelative:mobile_store.data\\models\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240405135317_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs",
+              "RelativeToolTip": "Mobile_Store\\Data\\Migrations\\20240405135317_InitialCreate.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAgwBUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:53:17.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\appsettings.json",
+              "RelativeDocumentMoniker": "Mobile_Store\\appsettings.json",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\appsettings.json",
+              "RelativeToolTip": "Mobile_Store\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-05T13:45:22.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Program.cs",
+              "RelativeDocumentMoniker": "Mobile_Store\\Program.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Program.cs",
+              "RelativeToolTip": "Mobile_Store\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:45:21.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Mobile_Store\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Mobile_Store\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:44:48.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Mobile_Store.Data\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Mobile_Store.Data\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:44:32.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Mobile_Store.Data\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\Order.cs",
+              "RelativeToolTip": "Mobile_Store.Data\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:44:12.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Mobile_Store.Data\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Mobile_Store.Data\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:43:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\Phone.cs",
+              "RelativeDocumentMoniker": "Mobile_Store.Data\\Models\\Phone.cs",
+              "ToolTip": "C:\\Users\\Panonit\\Desktop\\Mobile_Store\\Mobile_Store\\Mobile_Store.Data\\Models\\Phone.cs",
+              "RelativeToolTip": "Mobile_Store.Data\\Models\\Phone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T13:42:55.683Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
